@@ -1,0 +1,2 @@
+(this["webpackJsonpfundies-helper"]=this["webpackJsonpfundies-helper"]||[]).push([[0],{3:function(e,n,t){e.exports=t(8)},8:function(e,n,t){"use strict";t.r(n);var r=t(0),a=t.n(r),u=t(2),l=t.n(u),i=(new Date).getFullYear();var c=function(){return a.a.createElement("p",null,"Created by ","Kenny Jung, Satwik Mishra, Ken Zou",". Copyright 2020-",i,".")};var o=function(){return a.a.createElement(c,null)};l.a.render(a.a.createElement("div",null,a.a.createElement(o,null)),document.getElementById("footer"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.19c09dfa.chunk.js.map

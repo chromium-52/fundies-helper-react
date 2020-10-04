@@ -1,0 +1,41 @@
+#header {
+    background-color: green;
+    padding-top: 5%;
+}
+
+#announcements {
+    text-align: center;
+    background-color: lightblue;
+    border-radius: 30rem;
+    margin: 3rem;
+}
+
+#overview {
+    text-align: center;
+    border: solid 0.2rem;
+    margin: 1rem;
+    box-shadow: 1px 1px 2px 1px black;
+}
+
+#footer {
+    background-color: #99c4a2;
+    text-align: center;
+}
+
+.header-text {
+    color: white;
+    text-align: center;
+}
+
+.announcement-content {
+    width: 10rem;
+    border: solid 0.1rem;
+}
+
+.overview-content {
+    margin: 0.5rem;
+}
+
+.immediate {
+    color: red;
+}

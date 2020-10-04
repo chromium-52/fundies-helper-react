@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/fundies-helper-react/static/js/main.19c09dfa.chunk.js",
+    "main.js.map": "/fundies-helper-react/static/js/main.19c09dfa.chunk.js.map",
+    "runtime-main.js": "/fundies-helper-react/static/js/runtime-main.1e6d7997.js",
+    "runtime-main.js.map": "/fundies-helper-react/static/js/runtime-main.1e6d7997.js.map",
+    "static/js/2.56535bac.chunk.js": "/fundies-helper-react/static/js/2.56535bac.chunk.js",
+    "static/js/2.56535bac.chunk.js.map": "/fundies-helper-react/static/js/2.56535bac.chunk.js.map",
+    "index.html": "/fundies-helper-react/index.html",
+    "precache-manifest.0e4cc51285d51aebd09e8105644d7a36.js": "/fundies-helper-react/precache-manifest.0e4cc51285d51aebd09e8105644d7a36.js",
+    "service-worker.js": "/fundies-helper-react/service-worker.js",
+    "static/js/2.56535bac.chunk.js.LICENSE.txt": "/fundies-helper-react/static/js/2.56535bac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e6d7997.js",
+    "static/js/2.56535bac.chunk.js",
+    "static/js/main.19c09dfa.chunk.js"
+  ]
+}
