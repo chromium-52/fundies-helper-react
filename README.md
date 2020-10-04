@@ -1,1 +1,0 @@
-# fundies-helper-react
