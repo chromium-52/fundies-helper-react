@@ -1,6 +1,6 @@
 import React from "react";
 
-const people = "Kenny Jung, Satwik Mishra, Ken Zou";
+const people = "Kenny Jung, Satwik Misra, Ken Zou";
 
 const date = new Date();
 var year = date.getFullYear();
