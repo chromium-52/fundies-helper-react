@@ -2,11 +2,19 @@ import React from "react";
 
 const people = "Kenny Jung, Satwik Mishra, Ken Zou";
 
-var year = new Date().getFullYear();
+const date = new Date();
+var year = date.getFullYear();
+
+var hours = date.getHours();
+var minutes = date.getMinutes();
+var seconds = date.getSeconds();
 
 function Footer() {
     return (
-        <p>Created by {people}. Copyright 2020-{year}.</p>
+        <div>
+            <p>Created by {people}. Copyright 2020-{year}.</p>
+            <p>Page loaded at {hours + ":" + minutes + ":" + seconds}</p>
+        </div>
     );
 }
 
